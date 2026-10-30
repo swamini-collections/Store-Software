@@ -1,0 +1,2 @@
+# Store-Software
+swamini-collection
